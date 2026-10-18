@@ -1,0 +1,19 @@
+# Datasets and Outputs
+images_dataset/
+sample_output/
+archive/
+# Python Environments & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.env
+
+# IDEs and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
