@@ -2,6 +2,8 @@
 images_dataset/
 sample_output/
 archive/
+test/
+train/
 # Python Environments & Cache
 __pycache__/
 *.pyc
